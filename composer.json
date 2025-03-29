@@ -1,0 +1,11 @@
+{
+  "name": "mahocommerce/module-mcrypt-compat",
+  "license": "OSL-3.0",
+  "type": "maho-module",
+  "description": "Image cleaner module for OpenMage (and Magento 1.9)",
+  "keywords": ["maho", "mahocommerce", "mcrypt"],
+  "homepage": "https://github.com/mahocommerce/module-mcrypt-compat",
+  "require": {
+    "phpseclib/mcrypt_compat": "^2.0"
+  }
+}
