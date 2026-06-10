@@ -7,5 +7,10 @@
   "homepage": "https://github.com/mahocommerce/module-mcrypt-compat",
   "require": {
     "phpseclib/mcrypt_compat": "^2.0"
+  },
+  "config": {
+    "platform": {
+      "php": "8.3"
+    }
   }
 }
