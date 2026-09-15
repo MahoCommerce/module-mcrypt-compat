@@ -6,11 +6,12 @@
   "keywords": ["maho", "mahocommerce", "mcrypt"],
   "homepage": "https://github.com/mahocommerce/module-mcrypt-compat",
   "require": {
-    "phpseclib/mcrypt_compat": "^2.0"
+    "phpseclib/mcrypt_compat": "^2.0",
+    "php": ">=8.5"
   },
   "config": {
     "platform": {
-      "php": "8.3"
+      "php": "8.5"
     }
   }
 }
